@@ -15,8 +15,8 @@ Student & Aspiring Software Developer
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joncgroberg&rank_icon=percentile" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joncgroberg&layout=compact&langs_count=8&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joncgroberg&layout=compact&langs_count=8&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joncgroberg&rank_icon=percentile&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joncgroberg&rank_icon=percentile&theme=transparent" />
 </a>
