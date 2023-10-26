@@ -6,7 +6,7 @@ Student & Aspiring Software Developer
 - 🌐 Portfolio/Website (work in progress): https://joncgroberg.github.io/
 
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jonathan-groberg//)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/joncgroberg)  [<img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white' alt='codewars' height='40'>](https://www.codewars.com/users/JonCGroberg)  
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jonathan-groberg/)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='40'>](https://codepen.io/joncgroberg)  [<img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white' alt='codewars' height='40'>](https://www.codewars.com/users/JonCGroberg)  
 
 
 <a href="https://github.com/anuraghazra/convoychat">
