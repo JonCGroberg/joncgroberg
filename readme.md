@@ -12,5 +12,4 @@
 <div align=start>
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=joncgroberg&layout=compact&langs_count=8&theme=dark&hide_border=true" />
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=joncgroberg&rank_icon=percentile&theme=dark&hide_border=true" />
-  <img width = 780 src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joncgroberg&theme=dark">
 </div>
