@@ -3,7 +3,7 @@
 [<img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white' alt='codewars' height='40'>](https://www.codewars.com/users/JonCGroberg)  
 
 ### Hi there 👋, Im Jonathan 
-*Student & Aspiring Software Developer* @ University of Florida
+#### _Student & Aspiring Software Developer_ _|_ _UF 2025_
 
 - 🔭 I’m currently working on a Job Board Aggregation App 
 - 📫 How to reach me: jongroberg@gmail.com
