@@ -6,7 +6,7 @@
 #### _Student & Aspiring Software Developer_ _|_ _UF 2025_
 
 - 🔭 I’m currently working on a Job Board Aggregation App 
-- 📫 How to reach me: jongroberg@gmail.com
+- 📫 How to reach me: jonathan.groberg@ufl.edu
 - 🌐 Portfolio/Website (work in progress): https://joncgroberg.github.io/
 
 <div align=start>
