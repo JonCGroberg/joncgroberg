@@ -3,7 +3,7 @@
 [<img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white' alt='codewars' height='40'>](https://www.codewars.com/users/JonCGroberg)  
 
 ### Hi there 👋, Im Jonathan 
-#### _Student & Aspiring Software Developer_ _|_ _UF 2025_
+#### _Software Engineer Intern_ _|_ _UF 2025_
 
 - 🔭 I’m currently working on a Habit Building/Tracking Application 
 - 📫 How to reach me: jonathan.groberg@ufl.edu
