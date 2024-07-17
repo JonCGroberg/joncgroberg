@@ -5,7 +5,7 @@
 ### Hi there 👋, Im Jonathan 
 #### _Student & Aspiring Software Developer_ _|_ _UF 2025_
 
-- 🔭 I’m currently working on a Job Board Aggregation App 
+- 🔭 I’m currently working on a Habit Building/Tracking Application 
 - 📫 How to reach me: jonathan.groberg@ufl.edu
 - 🌐 Portfolio/Website (work in progress): https://joncgroberg.github.io/
 
