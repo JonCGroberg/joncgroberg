@@ -2,7 +2,7 @@
 [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='40'>](https://codepen.io/joncgroberg) 
 [<img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white' alt='codewars' height='40'>](https://www.codewars.com/users/JonCGroberg)  
 
-#### _Software Engineer Intern_ _|_ _UF 2025_
+#### _Software Engineer Intern @ Hillsborough County Sheriff's Office | Univerisity of Florida 2025 | YearUp | ColorStack_
 
 - 🔭 I’m currently working on a Habit Building/Tracking Application 
 - 📫 How to reach me: jonathan.groberg@ufl.edu
