@@ -5,7 +5,7 @@
 ####  Univerisity of Florida 2025 | YearUp | ColorStack | SHPE
 
 - 📫 How to reach me: jonathan.groberg@ufl.edu
-- 🌐 Website/Blog:  https://www.groberg.software/blog
+- 🌐 Website/Blog:  https://www.groberg.software
 
 <!--<div align=start>
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=joncgroberg&layout=compact&langs_count=8&theme=dark&hide_border=true" />
