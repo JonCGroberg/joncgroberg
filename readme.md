@@ -4,6 +4,7 @@
 
 ####  Univerisity of Florida 2025 | YearUp | ColorStack | SHPE
 
+- Currently vibecoding https://github.com/JonCGroberg/Tycoon-VibeCoded live at https://y-topaz-nine.vercel.app
 - 📫 How to reach me: jonathan.groberg@ufl.edu
 - 🌐 Website/Blog:  https://www.groberg.software
 
